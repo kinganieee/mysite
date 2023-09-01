@@ -1,0 +1,45 @@
+body {
+    font-family: sans-serif;
+    background: linear-gradient(#560EAD, #9B6AD6);
+}
+
+header{
+    background-color:rgb(232, 207, 255) ;
+    padding: 15px;
+}
+
+.link-header{
+     text-decoration: none;
+     color: blueviolet;
+     font-size: 25px;
+}
+
+nav a{
+    text-decoration: none;
+    color: blueviolet;
+    background-color: rgb(203, 176, 229);
+    padding: 8px;
+    margin: 5px 1px 25px 0;
+}
+
+.css{
+    display: flex;
+    justify-content: space-around;
+}
+
+h1{
+   background-color: rgb(196, 162, 227); 
+   color: rgb(61, 22, 98);
+}
+
+ul{
+    background-image: linear-gradient(to right, #9F3ED5, #8643D6);
+    padding: 16px;
+    font-size: 20px;
+    color: #4C2D5E;
+
+}
+
+footer{
+    background-image: linear-gradient(to left, #C936D3,	#FAAEFF);
+}
